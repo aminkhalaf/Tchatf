@@ -14,13 +14,15 @@ Tchat is a web application chat network
 ## Run Tchat
 1- create database in MySQL PHP MY ADMIN 
 
-2- make migrate to database via this command in terminal php artisan migrate to migrate database and run the project
+2-add database name in .env file and set username = root ,delete homestead in password and leave it
 
-3- you can run Tchat via localhost[http://localhost/Tchatf/public/login](http://localhost/Tchatf/public/login)
+3- make migrate to database via this command in terminal php artisan migrate to migrate database and run the project
+
+4- you can run Tchat via localhost[http://localhost/Tchatf/public/login](http://localhost/Tchatf/public/login)
 
 - or
 
-4- you can run Tchat via artisan command (php artisan serve)
+5- you can run Tchat via artisan command (php artisan serve)
 
 ## project structure files 
 
